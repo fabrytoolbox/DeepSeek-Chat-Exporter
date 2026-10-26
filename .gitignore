@@ -1,0 +1,26 @@
+# Output
+storie/
+*.html
+*.txt
+
+# Log
+*.log
+deepseek_exporter_*.log
+
+# JSON di test
+conversations.json
+*.json
+
+# File temporanei
+*.tmp
+*.zip
+
+# Sistema
+Thumbs.db
+desktop.ini
+.DS_Store
+
+# Editor
+.vscode/
+.idea/
+*.swp
